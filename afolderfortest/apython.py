@@ -1,0 +1,1 @@
+print("eger bunu anlamazsan hic bir seyi anlamazsin")
